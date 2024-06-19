@@ -8,4 +8,5 @@ Es recomendable que vaya escribiendo el programa por pasos (mostrar saludo, pedi
 fecha, leer fecha,…) y compilándolo después de cada paso para comprobar que
 funciona
 */
-¡
+ int (main )
+]}[þ ¡
